@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Welcome to the In-Digit-Able application (hereinafter referred to as "this application"). We take your privacy and personal information protection very seriously. This privacy policy aims to explain how we collect, use, store, share, and protect your personal information, as well as the rights you enjoy and how to protect your privacy.
+Welcome to the StarryPlayer application (hereinafter referred to as "this application"). We take your privacy and personal information protection very seriously. This privacy policy aims to explain how we collect, use, store, share, and protect your personal information, as well as the rights you enjoy and how to protect your privacy.
 
 ## 2. Information Collection
 
@@ -64,4 +64,4 @@ If you have any questions or suggestions about this privacy policy, please conta
 
 ## 9. Effective Date
 
-This privacy policy is effective as of April 29, 2026.
+This privacy policy is effective as of Aug 29, 2026.
