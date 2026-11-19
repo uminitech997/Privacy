@@ -1,72 +1,50 @@
-# Privacy Policy
+[简体中文](PrivacyAndroidZh.md)
 
-**Last Updated:** March 21, 2026
+**Last updated and effective:** November 20, 2026
 
-**Effective Date:** March 21, 2026
+The app may also appear as **USB CamWizard** or **USB摄像精灵** on some devices. For privacy questions, email [uminitech@foxmail.com](mailto:uminitech@foxmail.com).
 
----
+## Camera, audio, and media
 
-I (hereinafter referred to as "I" or "Developer") attach great importance to your privacy protection. This Privacy Policy applies to the "USB CamWizard" application (hereinafter referred to as "this App") developed and operated by me. Please read and fully understand the entire contents of this Privacy Policy before using this App. Once you start using this App, it means that you have agreed to the contents of this Privacy Policy.
+The app accesses the USB camera or capture device you select to show a live preview, take photos, and record video. Android may ask for camera access and separate permission for the connected USB device. The app can also use the phone's camera when you choose it. Microphone access is used to include sound in recordings that use the phone microphone. Compatible USB devices can provide an audio source for preview and recording.
 
----
+The app processes camera and audio feeds on your device. It saves the photos and recordings you create to local media storage so you can view, delete, or share them. On Android 9 and earlier, Android may require storage access to save or read these files. The app does not upload your camera preview, photos, or recordings to the developer or to advertising, analytics, or crash-reporting services. When you use Android's sharing menu, the app you select receives the files you choose. Your system or gallery backup settings may also copy saved files to a backup service you use.
 
-## I. Information I Collect
+## Pro purchases and restoring access
 
-To provide services to you, I may collect and use the following information:
+The app has no separate sign-in or app account. When you buy or manage Pro, Google Play handles checkout and uses your Play account and payment method. The app receives purchase details from Google Play, including the product identifier, purchase token, and purchase and confirmation status. The app uses these details to confirm the purchase, grant Pro access, and restore access when you reopen the app or use Restore. The app does not receive your card number or Google account password.
 
-### 1.1 Device Permission Related Information
+Pro plans are prepaid. Your purchase provides access for the period shown at checkout. It expires at the end of that period without automatically renewing. Google Play can confirm an active purchase again with the account that bought it. Clearing app data does not cancel a Play purchase. On-device entitlement information is stored in an encrypted cache and is excluded from Android backup and device transfer. [Google privacy policy](https://policies.google.com/privacy)
 
-- **Camera Permission:** Used to connect and preview the video feed from USB external cameras and implement photo-taking functions. This App will not collect your facial or personal image information through the camera.
-- **Microphone Permission:** Used to capture audio during video recording. The microphone is only activated when you actively record videos, and the recorded audio and video files are stored locally on your device.
-- **Media Storage Read/Write Permission:** Used to save your captured photos and recorded videos to the device album, and read album contents for viewing, sharing, or management purposes.
+## Advertising, analytics, and crash reporting
 
-### 1.2 Third-Party SDK List
+- **TopOn and the SDM ad integration** help the app request and display ads, measure impressions and clicks, and detect invalid traffic. These services may receive your IP address, approximate region, advertising or other available device identifiers, device and app details such as model, operating system and app version, network information, ad interactions, and diagnostics. Ad demand and measurement partners may receive relevant ad request or interaction data to serve and measure ads. [TopOn privacy policy](https://www.toponad.net/en/privacy-policy) · [SDM privacy information](https://www.statisticslinks.com/privacy-policy)
+- **AdMob** is an ad source used by the app. It may process IP addresses, approximate location inferred from IP, available advertising, app-set or device identifiers, app and ad interactions, and performance diagnostics to deliver and measure ads and prevent fraud. [AdMob data disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure) · [Google privacy policy](https://policies.google.com/privacy)
+- **Google Analytics for Firebase** may automatically collect app activity, such as first opens, sessions, engagement and purchase events, along with installation or device identifiers, app and device details, and approximate region. This helps the developer understand app usage and compatibility. [Firebase privacy information](https://firebase.google.com/support/privacy) · [Google privacy policy](https://policies.google.com/privacy)
+- **Bugly** is used to investigate crashes and compatibility issues. It may receive crash and error reports, app and system versions, device model, network or runtime information, and a randomly generated identifier that groups reports from the same installation. Some camera or audio error reports include the name or identifier of the connected device to help diagnose compatibility problems. [Bugly privacy information](https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56)
 
-To ensure stable operation of the App or implement relevant functions, I may integrate software development kits (SDKs) provided by third parties. I conduct strict security monitoring on partner SDKs that obtain information to protect data security.
+Pro removes in-app ads while your access is active. Purchase verification, app analytics, and crash reporting serve separate purposes and can still operate.
 
-- **Google Play Services**
-  - **Purpose:** Provide core services such as in-app purchases and update checks
-  - **Personal Information Involved:** Device information, Google account information.
-  - **Privacy Policy Link:** https://policies.google.com/privacy
+## Other network requests and support
 
----
+The app requests feature configuration from a hosting service. That service receives request information such as your IP address and standard network headers. Websites and third-party services you open through the app can also receive request information, for example when you open a policy link, follow an ad, or submit a review through Google Play.
 
-## II. How I Use Your Information
+If you contact the developer by email, your email address and the information you choose to send are used to investigate and respond to your request. This can include your device model, Android version, camera model, and any screenshots or recordings you choose to attach.
 
-The information I collect is only used for the following purposes:
+## Retention, security, and your choices
 
-- Provide core functions such as USB camera preview, photo taking, and video recording;
-- Save captured photos and videos to your local device album;
-- Manage your user account and membership services;
-- Conduct app version updates and compatibility checks;
-- Improve app performance and user experience.
+- **Photos and recordings:** You can delete local files through the app's gallery or Android. Files saved to shared media storage may remain after you uninstall the app. You manage copies already shared or backed up through the receiving app or service.
+- **Settings and purchase records:** You can clear local app data through Android settings. Android can back up ordinary preferences if you enable backups. Google Play keeps its own purchase records under its policies. Removing the app or its data does not remove those records.
+- **Support and diagnostics:** The developer keeps identifiable information for as long as needed to respond to requests, investigate issues, or meet applicable legal and recordkeeping obligations. Third-party services use their own retention settings and policies. These services may process information in countries other than the one where you live. The app uses encrypted storage for its subscription cache and HTTPS for its configuration request.
+- **Permissions and advertising controls:** You can review or revoke camera and microphone permissions in Android settings. Revoking a permission may limit the related feature. Depending on your Android version, you can also delete or reset your advertising ID or manage ad privacy settings.
 
----
+## How we handle information about children and teens
 
-## III. Data Storage and Security
+The app does not ask users to create an app account or enter their name, age, or date of birth. Minors should review this policy with a parent or legal guardian and ask before enabling the camera or microphone, sharing files, or buying Pro.
 
-- Photos and videos you capture through this App are **stored only on your device locally**, and I will not upload them to any server.
-- Data collected by the camera and microphone is processed locally in real-time and will not be transmitted externally.
-- Your login account information is stored in encrypted form, and reasonable security measures are taken to prevent data leakage.
-- I promise not to sell or share your personal information with any third party, except as required by laws and regulations.
+- **Photos, video, and audio.** The app processes camera and microphone input on the device and saves captured files locally. It does not send this content to the developer or to advertising, analytics, or crash-reporting services. If a minor shares a file or the device backs it up, the selected app or backup service receives a copy. A parent or guardian can delete local copies in the gallery or Android storage.
+- **Device and app activity.** The app does not ask for age and does not use an age setting to change how these services operate. As described in the advertising, analytics, and crash-reporting section, those services may process IP addresses, device or installation identifiers, app or ad activity, and diagnostic information when the app is used. The app reads Pro order status from Google Play, which handles payment and maintains its own purchase records.
 
----
+A parent or guardian can revoke camera and microphone permissions in Android settings, manage file sharing and backups, and use Google Play purchase approval controls where available.
 
-## IV. Protection of Minors
-
-I attach great importance to the protection of minors' personal information. This App is not intended for children under 13 years of age. If you are under 13, please do not use this App. If you are a minor between 13 and 18 years old, please read this Privacy Policy under the accompaniment and guidance of your legal guardian, and use this App after obtaining the consent of your legal guardian.
-
----
-
-## V. Updates to Privacy Policy
-
-I may update this Privacy Policy from time to time. When significant changes occur to the policy, I will notify you through prominent means such as pop-ups within the App. The updated Privacy Policy will take effect from the date of publication.
-
----
-
-## VI. Contact Me
-
-If you have any questions, opinions, or suggestions about this Privacy Policy, or if you need to exercise your personal information rights, please contact me through the following methods:
-
-- **Developer:** Uminitech
-- **Contact Email:** [uminitech@foxmail.com](mailto:uminitech@foxmail.com)
+Changes to this policy will be reflected in the date shown at the top of the page.
